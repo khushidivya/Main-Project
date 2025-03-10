@@ -1,1 +1,1 @@
-# Main-Project
+# Heart-Disease-Pred
